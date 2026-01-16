@@ -1,2 +1,2 @@
 # aliucord-custom-fonts
-Font repository for Aliucord
+Font repository for Revenge (Discord Mobile Modification)
