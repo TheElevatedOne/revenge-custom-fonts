@@ -1,2 +1,2 @@
-# aliucord-custom-fonts
+# revenge-custom-fonts
 Font repository for Revenge (Discord Mobile Modification)
